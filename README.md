@@ -1,10 +1,19 @@
-#  Furusato.nvim
+
+# Furusato.nvim
 > **“Furusato” (ふるさと)** — *a cozy place you return to.*
 
 Furusato is a **dark, cozy colorscheme** designed specifically for [NvChad](https://github.com/NvChad/NvChad).  
 It’s built for night-time coding sessions — calm on the eyes and easy to focus with.
 
 Enjoy <3 !
+
+---
+
+## Screenshots
+
+<img src="screenshots/screen1.png" alt="Preview 1" width="600"/>
+<img src="screenshots/screen2.png" alt="Preview 2" width="600"/>
+
 ---
 
 ## ⚠️ Requirements
@@ -18,4 +27,4 @@ Enjoy <3 !
 Clone the repo into your custom themes directory:
 
 ```bash
-git clone https://github.com/x018/furusato.nvim ~/.config/nvim/lua/themes/
+git clone https://github.com/x018/furusato.nvim ~/.config/nvim/lua/themes/furusato
